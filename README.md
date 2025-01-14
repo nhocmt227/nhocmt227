@@ -1,4 +1,4 @@
-## Hi there 👋
+Year 2 CS student in NUS
 
 <!--
 **nhocmt227/nhocmt227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
