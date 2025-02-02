@@ -1,6 +1,6 @@
 Year 2 CS student in NUS
 
-Interest: Computer Network
+Interest: Computer Network and Backend Development
 
 <!--
 **nhocmt227/nhocmt227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
