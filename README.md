@@ -1,6 +1,6 @@
 ### Hi! I'm a year 2 CS student in NUS
 
-⚡Interest: Computer Network and Operating Systems
+⚡Interest: Computer Network and Database Systems
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhocmt227&layout=compact&theme=dark&langs_count=6&hide=html)
 
