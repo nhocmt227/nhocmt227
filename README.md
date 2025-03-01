@@ -2,7 +2,7 @@
 
 ⚡Interest: Computer Network and Database Systems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhocmt227&layout=compact&theme=dark&langs_count=6&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhocmt227&layout=compact&theme=dark&langs_count=6&hide=EJS)
 
 
 <!--
