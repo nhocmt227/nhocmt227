@@ -1,4 +1,4 @@
-### Hi! I'm a year 2 Computer Science student in NUS
+### Hi! I'm a year 3 Computer Science student in NUS
 
 ⚡Interest: Computer Networking and Database Systems
 
